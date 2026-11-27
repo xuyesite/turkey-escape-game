@@ -1,0 +1,7 @@
+kit/
+turkey-kit.tar.gz
+out/
+out2/
+node_modules
+__pycache__
+devtools/
